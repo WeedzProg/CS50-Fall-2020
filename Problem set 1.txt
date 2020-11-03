@@ -1,0 +1,35 @@
+https://cs50.harvard.edu/x/2020/psets/1/
+
+For this problem set, you’ll use CS50 IDE, a cloud-based programming environment. This environment is similar to CS50 Sandbox and CS50 Lab, the programming environments that David discussed during lecture.
+
+What to Do
+Go to ide.cs50.io and click “Sign in with GitHub” to access your CS50 IDE.
+https://ide.cs50.io/
+
+Submit Hello
+https://cs50.harvard.edu/x/2020/psets/1/hello
+Submit one of:
+this version of Mario if feeling less comfortable
+https://cs50.harvard.edu/x/2020/psets/1/mario/less
+this version of Mario if feeling more comfortable
+https://cs50.harvard.edu/x/2020/psets/1/mario/more
+
+Submit one of:
+Cash if feeling less comfortable
+https://cs50.harvard.edu/x/2020/psets/1/cash
+Credit if feeling more comfortable
+https://cs50.harvard.edu/x/2020/psets/1/credit
+
+If you submit both Marios, we’ll record the higher of your two scores. If you submit both of Cash and Credit, we’ll record the higher of your two scores.
+
+When to Do It
+By 11:59pm on 31 December 2020.
+
+Advice
+Try out any of David’s programs from class via Week 1’s source code. https://cs50.harvard.edu/x/2020/weeks/1/
+If you see any errors when compiling your code with make, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking help50 for help. For instance, if trying to compile hello, and
+make hello
+is yielding errors, try running
+
+help50 make hello
+instead!

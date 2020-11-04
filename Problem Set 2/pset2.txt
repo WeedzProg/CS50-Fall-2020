@@ -1,0 +1,24 @@
+Problem Set 2
+For this problem set, you’ll use CS50 IDE, a cloud-based programming environment.
+
+What to Do
+Go to ide.cs50.io and click “Sign in with GitHub” to access your CS50 IDE.
+Submit Readability https://cs50.harvard.edu/x/2020/psets/2/readability
+
+Submit one of:
+Caesar if feeling less comfortable https://cs50.harvard.edu/x/2020/psets/2/caesar
+
+Substitution if feeling more comfortable https://cs50.harvard.edu/x/2020/psets/2/substitution
+If you submit both Caesar and Substitution, we’ll record the higher of your two scores.
+
+When to Do It
+By 11:59pm on 31 December 2020.
+
+Advice
+Try out any of David’s programs from class via Week 2’s source code. https://cs50.harvard.edu/x/2020/weeks/2/
+If you see any errors when compiling your code with make, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking help50 for help. For instance, if trying to compile readability, and
+make readability
+is yielding errors, try running
+
+help50 make readability
+instead!

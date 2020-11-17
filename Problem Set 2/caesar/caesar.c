@@ -1,5 +1,5 @@
 /*
-    CS-50 pset-2: Ceasar cipher
+    CS-50 pset-2: Caesar cipher
     description: Message encryption, plaintext to ciphertext, alphabet lower / upper only, integer key.
     formula: c.i = (p.i + k) % 26
     @file caesar.c

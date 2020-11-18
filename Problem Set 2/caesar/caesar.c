@@ -16,7 +16,7 @@
 
 int main(int argc, char *argv[])
 {
-    printf("argc is: %i\n", argc);
+    //printf("argc is: %i\n", argc);
     if (argc == 2) //if argument ./caesar + key
     {
         for (int check_int = 0; check_int < strlen(argv[1]); check_int++)
